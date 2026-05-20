@@ -1,5 +1,7 @@
 # -Laboratory-Work-4-Activity-Improving-CNN-Performance-Using-Regularization
 
+# Gdrive : https://drive.google.com/file/d/1OTMtBg44p9SI1hZaGcM5NhYPecLBHmZm/view?usp=drive_link
+
 https://colab.research.google.com/drive/1bQCcPy9UI9EoBkwzEgf-M6OM-hzgcuBQ?usp=sharing
 
 GUIDE QUESTIONS (Student Explanation & Reflection)
